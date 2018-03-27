@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.19 - 2018-03-27
+
+* Added Etag to metadata response.
+
 ## 1.0.18 - 2017-06-30
 
 ### Fixed
